@@ -1,3 +1,3 @@
 # BRB Mobilidade
 
-Repositório desinado à elicitação de requisitos para o aplicativo *BRB Mobilidade*
+Repositório desinado à avaliação de IHC para o site desktop *BRB Mobilidade*
