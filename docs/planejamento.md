@@ -45,7 +45,12 @@ Verificar se o sistema informa o usuário de forma simples o erro que ocorreu e 
 - Ajuda e documentação:
 Verificar se o sistema auxilia usuários com quaisquer dúvidas sobre funcionalidades ou uso do sistema.
 
+## Cronograma
+A equipe utilizará um cronograma que segue as datas de entrega para cada conteúdo da wiki
+![alt text](images/cronograma.png)
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 20/09 |Criação do pages e adição do planejamento e processo de design| [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.01| 22/09 |Criação do pages e adição do planejamento e processo de design| [Danilo Domingo](https://github.com/danilow200)|
