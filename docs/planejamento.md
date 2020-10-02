@@ -53,4 +53,4 @@ A equipe utilizará um cronograma que segue as datas de entrega para cada conte�
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 20/09 |Criação do pages e adição do planejamento e processo de design| [Gabriel Hussein](https://github.com/GabrielHussein)|
-| 1.01| 22/09 |Criação do pages e adição do planejamento e processo de design| [Danilo Domingo](https://github.com/danilow200)|
+| 1.1| 02/10 |Criação do pages e adição do planejamento e processo de design| [Danilo Domingo](https://github.com/danilow200)|
