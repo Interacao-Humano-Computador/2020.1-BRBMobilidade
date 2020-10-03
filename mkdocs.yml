@@ -2,6 +2,7 @@ site_name: BRB Mobilidade Desktop
 nav:
   - Home: index.md
   - Planejamento: planejamento.md
+  - Usuários: perfilDeUsuarios.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
