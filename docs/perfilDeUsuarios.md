@@ -14,13 +14,13 @@ A análise do perfil de usuário consiste em buscar o máximo de informações r
 	<tr>
 		<th>Faixa etária</th>
 		<th>18-22</th>
-		<th></th>
+		<th>18 - 22</th>
         <th></th>
 	</tr>
     <tr>
 		<th>Ocupação</th>
 		<th>Estudante</th>
-		<th></th>
+		<th>Estudante</th>
         <th></th>
 	</tr>
     <tr>
@@ -72,3 +72,12 @@ A análise do perfil de usuário consiste em buscar o máximo de informações r
 | --- | --- | --- |
 | RF01 | Apresentar o horário dos ônibus. | Should |
 | RF01 | Possibilitar a recarga de cartão online | Must |
+
+### Persona B
+| Persona |  |
+| --- | --- |
+| Nome: | Tony Sterko |
+| Ocupação: | Estudante, Estagiário de Frontend |
+| Escolaridade: | Cursando Ensino Superior |
+| Conhecimento sobre o site: | Básico |
+| História e contexto: | Tony Sterko estuda Engenharia Software na UnB. Tony utiliza do cartão cidadão junto com o passe estudantil para se locomover entre sua casa, faculdade e estágio, Tony tem o habito de utilizar o cartão cidadão para completar as viajens de seu dia, e tem o costume de recarregar seu cartão uma vez na semana logo após sair do faculdade e ir para o estágio. |
