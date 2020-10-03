@@ -80,4 +80,10 @@ A análise do perfil de usuário consiste em buscar o máximo de informações r
 | Ocupação: | Estudante, Estagiário de Frontend |
 | Escolaridade: | Cursando Ensino Superior |
 | Conhecimento sobre o site: | Básico |
-| História e contexto: | Tony Sterko estuda Engenharia Software na UnB. Tony utiliza do cartão cidadão junto com o passe estudantil para se locomover entre sua casa, faculdade e estágio, Tony tem o habito de utilizar o cartão cidadão para completar as viajens de seu dia, e tem o costume de recarregar seu cartão uma vez na semana logo após sair do faculdade e ir para o estágio. |
+| História e contexto: | Tony Sterko estuda Engenharia Software na UnB. Tony utiliza do cartão cidadão junto com o passe estudantil para se locomover entre sua casa, faculdade e estágio, Tony tem o habito de utilizar o cartão cidadão para completar as viajens de seu dia, e tem o costume de recarregar seu cartão uma vez na semana logo após sair do faculdade e ir para o estágio.
+
+## Versionamento
+| Versão| Data| Alteração | Integrante |
+| :------------- :|:--------------:| :-----------:|:----------:|
+| 1.0| 03/10 |Criação do pefil de usuário A e persona A| [Arthur Paiva](https://github.com/ArthurPaivaT)|
+| 1.1| 03/10 |Criação do pefil de usuário B e persona B| [Danilo Domingo](https://github.com/danilow200)| |
