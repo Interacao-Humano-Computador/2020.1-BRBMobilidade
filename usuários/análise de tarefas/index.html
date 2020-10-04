@@ -1,7 +1,4 @@
 
-
-
-
 <!doctype html>
 <html lang="pt" class="no-js">
   <head>
@@ -12,7 +9,7 @@
       
       
       <link rel="shortcut icon" href="../../images/brblogo.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-5.5.12">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.0.1">
     
     
       
@@ -20,19 +17,21 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.4dd2dd8d.min.css">
-      
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.6a5ad368.min.css">
-      
+      <link rel="stylesheet" href="../../assets/stylesheets/main.38780c08.min.css">
       
         
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f72e892.min.css">
         
-        <meta name="theme-color" content="#4051b5">
+          
+          
+          <meta name="theme-color" content="#4051b5">
+        
       
     
     
     
       
+        
         <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7C&display=fallback">
         <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"",SFMono-Regular,Consolas,Menlo,monospace}</style>
@@ -50,9 +49,11 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="light-blue">
-  
     
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="light-blue">
+      
+  
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
@@ -142,8 +143,6 @@
 </header>
     
     <div class="md-container" data-md-component="container">
-      
-        
       
       
         
@@ -291,6 +290,20 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#analise-sobre-recarga-de-cartao" class="md-nav__link">
+    Análise sobre recarga de cartão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#analise-sobre-linhas-e-horarios-de-onibus" class="md-nav__link">
+    Análise sobre linhas e horários de ônibus
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#versionamento" class="md-nav__link">
     Versionamento
   </a>
@@ -347,6 +360,20 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#analise-sobre-recarga-de-cartao" class="md-nav__link">
+    Análise sobre recarga de cartão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#analise-sobre-linhas-e-horarios-de-onibus" class="md-nav__link">
+    Análise sobre linhas e horários de ônibus
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#versionamento" class="md-nav__link">
     Versionamento
   </a>
@@ -364,9 +391,6 @@
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
-                
-                
-                  
                 
                 
                 <h1 id="analise-de-tarefa-hta">Análise de tarefa HTA</h1>
@@ -437,6 +461,76 @@
 </tr>
 </tbody>
 </table>
+<h3 id="analise-sobre-recarga-de-cartao"><strong>Análise sobre recarga de cartão</strong></h3>
+<p><img alt="alt text" src="../../images/recarga.png" /></p>
+<ul>
+<li>Imagem 3. Diagrama HTA para o objetivo "Recarregar Cartão"</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="center">Objetivos/operações</th>
+<th align="center">Problemas e recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0. Recarregar cartão 1&gt;2</td>
+<td align="center"><strong>plano:</strong> Efetuar recarga de crédito do cartão cidadão <strong>problema:</strong> A recarga virtual só pode ser feita via boleto</td>
+</tr>
+<tr>
+<td align="center">0.1 Efetuar Recarga Virtual 1&gt;2</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">0.1.1 Emitir Boleto</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">0.2 Recarregar em um posto físico</td>
+<td align="center"><strong>plano:</strong> Ir até um posto efetuar a recarga</td>
+</tr>
+<tr>
+<td align="center">0.2.1 Encontrar um posto de recarga</td>
+<td align="center"><strong>plano:</strong> Encontrar a localização do posto de recarga mais próximo para facilitar o procedimento</td>
+</tr>
+</tbody>
+</table>
+<h3 id="analise-sobre-linhas-e-horarios-de-onibus"><strong>Análise sobre linhas e horários de ônibus</strong></h3>
+<p><img alt="alt text" src="../../images/horario_linha.png" /></p>
+<ul>
+<li>Imagem 4. Diagrama HTA para o objetivo "Encontrar linhas e horários de ônibus"</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th align="center">Objetivos/operações</th>
+<th align="center">Problemas e recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">0. Escolher linha</td>
+<td align="center"><strong>plano:</strong> Seleciona a linha que se deseja saber a respeito</td>
+</tr>
+<tr>
+<td align="center">0.1 Observar horários</td>
+<td align="center"><strong>plano:</strong> Acompnhar todo horário de funcionamento da linha durante todos os dias da semana</td>
+</tr>
+<tr>
+<td align="center">0.2 Encontrar rota</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">0.2.1 Observar paradas</td>
+<td align="center"><strong>plano:</strong> Poder ver todas as paradas de uma rota</td>
+</tr>
+<tr>
+<td align="center">0.3 Acompanhar localização ônibus</td>
+<td align="center"><strong>plano:</strong> Poder ver a onde o ônibus está no momento</td>
+</tr>
+</tbody>
+</table>
 <h2 id="versionamento">Versionamento</h2>
 <table>
 <thead>
@@ -453,6 +547,18 @@
 <td align="center">04/10</td>
 <td align="center">Análise de tarefas bloqueio e 2º via</td>
 <td align="center"><a href="https://github.com/GabrielHussein">Gabriel Hussein</a></td>
+</tr>
+<tr>
+<td align="center">1.1</td>
+<td align="center">04/10</td>
+<td align="center">Análise de tarefas Recarga de cartão</td>
+<td align="center"><a href="https://github.com/ArthurPaivaT">Arthur Paiva</a></td>
+</tr>
+<tr>
+<td align="center">1.2</td>
+<td align="center">04/10</td>
+<td align="center">Análise de tarefas Encontrar linhas e horários de ônibus</td>
+<td align="center"><a href="https://github.com/danilow200">Danilo Domingo</a></td>
 </tr>
 </tbody>
 </table>
@@ -508,15 +614,15 @@
       
     </div>
     
-      <script src="../../assets/javascripts/vendor.11f47dfd.min.js"></script>
-      <script src="../../assets/javascripts/bundle.7e09dd84.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados"}</script>
+      <script src="../../assets/javascripts/vendor.6c4496e8.min.js"></script>
+      <script src="../../assets/javascripts/bundle.97185c3a.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
       
       <script>
         app = initialize({
           base: "../..",
           features: ['instant'],
           search: Object.assign({
-            worker: "../../assets/javascripts/worker/search.5eca75d3.min.js"
+            worker: "../../assets/javascripts/worker/search.4ac00218.min.js"
           }, typeof search !== "undefined" && search)
         })
       </script>
