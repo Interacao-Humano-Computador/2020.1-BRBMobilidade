@@ -28,7 +28,22 @@
 | 1.2 Solicitar bloqueio de cartão| __plano:__ Seguir o fluxo de atividade já analisada anteriormente|
 | 2. Ir a um posto pedir 2ª via | __problema:__ Não há redirecionamento direto a um mapa com os postos e endereços e sim a página inicial do site e mesmo após acessar os postos o mapa não mostra a localização do usuário o que dificulta localização do posto mais próximo. __recomendação:__ Redirecionar para a área de postos de atendimento e emissão de 2ª via diretamente e pedir permissão para acesso ao gps do usuário.|
 
+### __Análise sobre recarga de cartão__
+
+![alt text](../images/recarga.png)
+
+* Imagem 3. Diagrama HTA para o objetivo "Recarregar Cartão"
+
+| Objetivos/operações| Problemas e recomendações |
+| :------------- :|:--------------:|
+| 0. Recarregar cartão 1>2| __plano:__ Efetuar recarga de crédito do cartão cidadão __problema:__ A recarga virtual só pode ser feita via boleto |
+| 0.1 Efetuar Recarga Virtual 1>2| |
+| 0.1.1 Emitir Boleto||
+| 0.2 Recarregar em um posto físico| __plano:__ Ir até um posto efetuar a recarga|
+| 0.2.1 Encontrar um posto de recarga | __plano:__ Encontrar a localização do posto de recarga mais próximo para facilitar o procedimento|
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 04/10 |Análise de tarefas bloqueio e 2º via| [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.1| 04/10 |Análise de tarefas Recarga de cartão| [Arthur Paiva](https://github.com/ArthurPaivaT)|
