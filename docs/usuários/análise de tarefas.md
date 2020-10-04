@@ -42,8 +42,24 @@
 | 0.2 Recarregar em um posto físico| __plano:__ Ir até um posto efetuar a recarga|
 | 0.2.1 Encontrar um posto de recarga | __plano:__ Encontrar a localização do posto de recarga mais próximo para facilitar o procedimento|
 
+### __Análise sobre linhas e horários de ônibus__
+
+![alt text](../images/horario_linha.png)
+
+* Imagem 4. Diagrama HTA para o objetivo "Encontrar linhas e horários de ônibus"
+
+| Objetivos/operações| Problemas e recomendações |
+| :------------- :|:--------------:|
+| 0. Escolher linha| __plano:__ Seleciona a linha que se deseja saber a respeito  |
+| 0.1 Observar horários | __plano:__ Acompnhar todo horário de funcionamento da linha durante todos os dias da semana  |
+| 0.2 Encontrar rota||
+| 0.2.1 Observar paradas| __plano:__ Poder ver todas as paradas de uma rota|
+| 0.3 Acompanhar localização ônibus | __plano:__ Poder ver a onde o ônibus está no momento|
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 04/10 |Análise de tarefas bloqueio e 2º via| [Gabriel Hussein](https://github.com/GabrielHussein)|
 | 1.1| 04/10 |Análise de tarefas Recarga de cartão| [Arthur Paiva](https://github.com/ArthurPaivaT)|
+| 1.2| 04/10 |Análise de tarefas Encontrar linhas e horários de ônibus| [Danilo Domingo](https://github.com/danilow200)|
+
