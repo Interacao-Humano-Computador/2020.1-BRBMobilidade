@@ -2,7 +2,9 @@ site_name: BRB Mobilidade Desktop
 nav:
   - Home: index.md
   - Planejamento: planejamento.md
-  - Usuários: perfilDeUsuarios.md
+  - Contexto de uso: 
+    - Perfis de usuário e personas: usuários/perfilDeUsuarios.md
+    - Análise de tarefas: usuários/análise de tarefas.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
