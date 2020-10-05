@@ -23,11 +23,11 @@ theme:
     - instant
   extra:
     - icon: fontawesome/brands/github
-      link: https://github.com/Requisitos-de-Software/2020.1-BRBmobilidade
+      link: https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/
 plugins:
   - search:
       separator: '[\s\-\.]+'
-repo_url: https://github.com/Requisitos-de-Software/2020.1-BRBmobilidade
+repo_url: https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/
 markdown_extensions:
   - toc:
       permalink: false
