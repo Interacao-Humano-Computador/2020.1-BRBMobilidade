@@ -56,10 +56,28 @@
 | 0.2.1 Observar paradas| __plano:__ Poder ver todas as paradas de uma rota|
 | 0.3 Acompanhar localização ônibus | __plano:__ Poder ver a onde o ônibus está no momento|
 
+### __Análise sobre suporte e atendimento__
+
+![alt text](../images/Atendimento.png)
+
+* Imagem 5. Diagrama HTA para o objetivo "Procurar um Atendimento"
+
+| Objetivos/operações| Problemas e recomendações |
+| :------------- :|:--------------:|
+| 0. Acessar Posto de atendimento| __plano:__ Encontrar um Atendimento|
+| 1. Acessar Atendimento PLE| __plano:__ Encontrar um Atendimento PLE |
+| 1.1 Visualizar Lojas de Atendimento PLE| __problema__: Muda completamete a navegação.<br>  __recomendação:__ Adicionar onde encontrar as lojas de atendimento PLE sem mudar a navegação|
+| 2. Acessar Atendimento VT | __plano:__ Encontrar um Atendimento VT|
+| 2.1 Visualizar Lojas de Atendimento VT BRB Mobilidade |__problema__: Muda completamete a navegação. <br> __recomendação:__ Adicionar onde encontrar as lojas de atendimento VT sem mudar a navegação |
+| 3. Acessar Atendimento PCD | __plano:__ Encontrar um Atendimento PCD |
+| 3.1 Visualizar Lojas de Atendimento PCD BRB Mobilidade |__problema__: Muda completamete a navegação.<br> __recomendação:__ Adicionar onde encontrar as lojas de atendimento PCD sem mudar a navegação |
+
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 04/10 |Análise de tarefas bloqueio e 2º via| [Gabriel Hussein](https://github.com/GabrielHussein)|
 | 1.1| 04/10 |Análise de tarefas Recarga de cartão| [Arthur Paiva](https://github.com/ArthurPaivaT)|
 | 1.2| 04/10 |Análise de tarefas Encontrar linhas e horários de ônibus| [Danilo Domingo](https://github.com/danilow200)|
+| 1.3| 04/10 |Análise de tarefas Encontrar linhas e horários de ônibus| [Iago Theophilo](https://github.com/iagotheophilo)|
 
