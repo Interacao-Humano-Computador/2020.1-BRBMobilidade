@@ -1,6 +1,7 @@
 site_name: BRB Mobilidade Desktop
 nav:
   - Home: index.md
+  - Apresentações: apresentações/planejamento.md
   - Planejamento: planejamento.md
   - Contexto de uso: 
     - Perfis de usuário e personas: usuários/perfilDeUsuarios.md
