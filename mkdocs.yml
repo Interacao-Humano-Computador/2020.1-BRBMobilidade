@@ -6,6 +6,7 @@ nav:
   - Contexto de uso: 
     - Perfis de usuário e personas: usuários/perfilDeUsuarios.md
     - Análise de tarefas: usuários/análise de tarefas.md
+  - Guia de estilo: guia_de_estilo/guiadeestilo.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
