@@ -39,7 +39,7 @@ O BRB Mobilidade é um site na web que utiliza botões para a sua navegação, c
 
 ## 3.1. Disposição espacial e grid
 
-![alt text](images/disposicao_espacial_e_grid.png)
+![alt text](../images/disposicao_espacial_e_grid.png)
 
 ## 3.2. Janelas
 
@@ -53,13 +53,13 @@ A fonte utilizada, tanto para títulos quanto para textos, é Arial, sendo o tam
 
 Os símbolos foram utilizados para dar acesso a sites parceiros, e os QRCodes foram utilizados para divulgar o app do BRB Mobilidae.
 
-![alt text](images/naotipograficos.png)
+![alt text](../images/naotipograficos.png)
 
 ## 3.5. Cores
 
 O padrão de cor é:
 
-![alt text](images/cores.png)
+![alt text](../images/cores.png)
 
 ## 3.6. Animação
 
