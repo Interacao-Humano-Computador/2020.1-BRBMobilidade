@@ -79,5 +79,5 @@
 | 1.0| 04/10 |Análise de tarefas bloqueio e 2º via| [Gabriel Hussein](https://github.com/GabrielHussein)|
 | 1.1| 04/10 |Análise de tarefas Recarga de cartão| [Arthur Paiva](https://github.com/ArthurPaivaT)|
 | 1.2| 04/10 |Análise de tarefas Encontrar linhas e horários de ônibus| [Danilo Domingo](https://github.com/danilow200)|
-| 1.3| 04/10 |Análise de tarefas Encontrar linhas e horários de ônibus| [Iago Theophilo](https://github.com/iagotheophilo)|
+| 1.3| 04/10 |Análise sobre suporte e atendimento| [Iago Theophilo](https://github.com/iagotheophilo)|
 
