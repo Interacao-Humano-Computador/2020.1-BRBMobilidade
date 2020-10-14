@@ -7,6 +7,8 @@ nav:
     - Perfis de usuário e personas: usuários/perfilDeUsuarios.md
     - Análise de tarefas: usuários/análise de tarefas.md
     - Metas de usabilidade: usuários/metasdeusabilidade.md
+  - Guia de estilo: guia_de_estilo/guiadeestilo.md
+
 theme:
   name: null
   custom_dir: mkdocs-material/material
