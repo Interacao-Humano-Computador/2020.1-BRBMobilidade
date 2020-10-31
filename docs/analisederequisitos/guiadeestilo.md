@@ -43,7 +43,10 @@ O BRB Mobilidade é um site na web que utiliza botões para a sua navegação, c
 
 ### 3.2. Janelas
 
-O layout deve seguir a proporção de acordo com o tamanho da tela, se ajustando de acordo com a resolução.
+O layout deve seguir a proporção de acordo com o tamanho da tela, se ajustando de acordo com a resolução, como é demonstrado nas duas imagens abaixo.
+![alt text](../images/guia_janela1.png)
+
+![alt text](../images/guia_janela2.png)
 
 ### 3.3. Tipografia
 
