@@ -14,6 +14,15 @@ Cada usuário selecionado deverá usar o protótipo em papel com a intenção da
 
 ## Protótipo
 
+![alt text](../images/papel1.jpg)
+
+![alt text](../images/papel2.jpg)
+
+![alt text](../images/papel3.jpg)
+
+![alt text](../images/papel4.jpg)
+
+
 ## Coleta de Dados
 
 Para cada tarefa, os avaliadores deverão listar os principais problemas encontrados seguindo e no caso de problemas simples, melhorar o protótipo para uma melhor avaliação.
@@ -48,3 +57,4 @@ Seguindo as interações ocorridas, os principais problemas encontrados na fase 
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 11/11 |Criação do planejamento de avaliação do protótipo de papel| [Arthur Paiva](https://github.com/ArthurPaivaT)|
+| 1.1| 11/11 |Criação do protótipo de papel| [Danilo Domingo](https://github.com/danilow200)|
