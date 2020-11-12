@@ -13,6 +13,12 @@ nav:
   - Planejamento da avaliação:
     - Planejamento: planejamento/planejamento.md
     - Storyboard: planejamento/storyboard.md
+  - Prototipação:
+    - Planejamento de Avaliação - Protótipo de Papel: prototipacao/plaejamento-prot-papel.md
+  - Relatos:
+    - Storyboard: relatoStoryBoard/relatostoryboard.md
+    - Avaliação heurística: relatos/avaliacaoHeuristica.md
+    - Percurso cognitivo: relatos/percursoCognitivo.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
