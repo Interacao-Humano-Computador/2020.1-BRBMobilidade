@@ -13,6 +13,9 @@ nav:
   - Planejamento da avaliação:
     - Planejamento: planejamento/planejamento.md
     - Storyboard: planejamento/storyboard.md
+  - Relatos:
+    - Avaliação heurística: relatos/avaliacaoHeuristica.md
+    - Percurso cognitivo: relatos/percursoCognitivo.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
