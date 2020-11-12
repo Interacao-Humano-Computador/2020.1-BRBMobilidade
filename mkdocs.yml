@@ -10,6 +10,8 @@ nav:
     - Princípios gerais: analisederequisitos/principiosgerais.md
     - Metas de usabilidade: analisederequisitos/metasdeusabilidade.md
     - Guia de estilo: analisederequisitos/guiadeestilo.md
+  - Prototipação:
+    - Planejamento de Avaliação - Protótipo de Papel: prototipacao/plaejamento-prot-papel.md
   - Planejamento da avaliação:
     - Planejamento: planejamento/planejamento.md
     - Storyboard: planejamento/storyboard.md
