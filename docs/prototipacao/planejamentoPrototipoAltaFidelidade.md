@@ -6,7 +6,7 @@ Como um método de avaliação da qualidade de uso das soluções de IHC e ident
 
 ## Protótipo
 
-Prototipação feita com o auxílio da ferramenta [Figma](figma.com).
+Prototipação feita com o auxílio da ferramenta [Figma](https://figma.com).
 
 ### Tela Inicial
 ![alt text](../images/inicial.png)
