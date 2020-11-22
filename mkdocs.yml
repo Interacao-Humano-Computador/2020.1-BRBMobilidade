@@ -20,6 +20,7 @@ nav:
   - Relatos:
     - Avaliação heurística: relatos/avaliacaoHeuristica.md
     - Percurso cognitivo: relatos/percursoCognitivo.md
+    - Entrevista - Protótipo alta fidelidade: relatos/entrevista.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
