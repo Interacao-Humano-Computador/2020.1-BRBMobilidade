@@ -19,6 +19,7 @@ nav:
     - Storyboard: relatoStoryBoard/relatostoryboard.md
     - Avaliação heurística: relatos/avaliacaoHeuristica.md
     - Percurso cognitivo: relatos/percursoCognitivo.md
+    - Protótipo de Papel: relatos/prot_papel.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
