@@ -21,14 +21,12 @@ O entrevistador deverá obrigatoriamente fazer as perguntas elencadas abaixo uti
 | Quais são as funcionálidades que você percebe no protótipo de alta fidelidade?| 
 | Teve alguma dificuldade em encontrar alguma funcionalidade?  |  
 | Elenque quais foram as funcionálidade que você encontrou. |
-| Com relação ao _Linhas e Horários de Ônibus_ ficou claro todas as informações ?|
-| Com relação ao _Linhas e Horários de Ônibus_ tem alguma sugestão ou melhoria que poderia ser feita? | 
 | Com relação a _Recarga de cartão_ ficou claro todas as informações e como fazero procedimento |
 | Com relação a _Recarga de cartão_ tem alguma sugestão ou melhoria que poderia ser feita? |
 | Com relação a _2ª via de cartão_ ficou claro todas as informações e como fazero procedimento| 
 | Com relação a _2ª via de cartão_ tem alguma sugestão ou melhoria que poderia ser feita?| 
-| Com relação ao _Postos de Atendimento_ ficou claro todas as informações |
-| Com relação ao _Postos de Atendimento_ tem alguma sugestão ou melhoria que poderia ser feita? |
+| Com relação ao _Suporte e apoio ao usuário_, tem alguma melhoria ou sugestão?|
+| Com relação ao _Suporte e apoio ao usuário_, ficou claro em como tirar dúvidas e solicitar suporte?|
 
 ## Consolidação de Resultados
 
