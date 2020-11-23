@@ -7,6 +7,7 @@ Usuário: Marcos Vinícius Jamal
 ## Feedback do usuário
 
 Ao utilizar o sistema, usuário encontrou os seguintes problemas:
+
 - Falta de uma área para cadastrar o usuário.
 - Não possui sistema de recuperar conta.
 - Recargas do cartão cidadão apenas via boleto
@@ -14,6 +15,7 @@ Ao utilizar o sistema, usuário encontrou os seguintes problemas:
 
 ## Proposta de solução
 Com o feedback do usuário, foi possível levantar algumas propostas de solução:
+
 - Criar uma área para o usuário poder se cadastrar sem ser necessário ter feito o cadastro físico.
 - Implementar um sistema de recuperar conta pelo o site.
 - Adicionar recargar do cartão cidadão, via cartão
