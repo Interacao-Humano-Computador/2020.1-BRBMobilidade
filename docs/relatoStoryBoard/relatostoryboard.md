@@ -7,7 +7,7 @@ Baseado no [story board](https://interacao-humano-computador.github.io/2020.1-BR
 Para verificar o storyboard, algumas perguntas devem ser feitas para saber se o storyboard é eficaz e atende às expectativas do usuários.
 
 Utilizaremos o [perfil de usários](https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/usu%C3%A1rios/perfilDeUsuarios/) definidos anteriormente para selecionarmos os perfil de pessoas que podem participar da avaliação.
-## Obejetivo da avaliação
+## Objetivo da avaliação
 O objetivo do relato dos resultados é saber se o storyboard elaborado pela equipe está de acordo com o que se espera assim como a sua qualidade e clareza.
 
 ## Relato da avaliação
