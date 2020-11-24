@@ -15,10 +15,13 @@ nav:
     - Storyboard: planejamento/storyboard.md
   - Prototipação:
     - Planejamento de Avaliação - Protótipo de Papel: prototipacao/plaejamento-prot-papel.md
+    - Planejamento de Avaliação - Protótipo de Alta fidelidade: prototipacao/planejamentoPrototipoAltaFidelidade.md
   - Relatos:
     - Storyboard: relatoStoryBoard/relatostoryboard.md
     - Avaliação heurística: relatos/avaliacaoHeuristica.md
     - Percurso cognitivo: relatos/percursoCognitivo.md
+    - Entrevista - Protótipo alta fidelidade: relatos/entrevista.md
+    - Protótipo de Papel: relatos/prot_papel.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
