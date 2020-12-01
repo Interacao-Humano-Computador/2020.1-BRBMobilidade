@@ -10,15 +10,6 @@
 
 ![alt text](images/bugSite.png)
 
-## As técnicas e ferramentas utilizadas
-
-Para elaboração desse projeto foi essencial a ulização das ferramentas:
-
-[Figma](https://www.figma.com/): Para elaboração do Protótipo de alta fidelidade em [Planejamento de Avaliação - Protótipo de Alta fidelidade](https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/prototipacao/planejamentoPrototipoAltaFidelidade/)
-
-[Pixton](https://www.pixton.com/): Para elaboração do [Storyboard](https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/planejamento/storyboard/)
-
-[Youtube](https://www.youtube.com/): Para disponibilização dos vídeos gravados na [Apresentações](https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/apresenta%C3%A7%C3%B5es/apresentacoes/)
 
 ## As facilidades e dificuldades encontradas para a realização do projeto.
 

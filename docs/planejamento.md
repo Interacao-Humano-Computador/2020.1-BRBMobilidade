@@ -22,9 +22,21 @@
 A equipe utilizará um cronograma que segue as datas de entrega para cada conteúdo da wiki
 ![alt text](images/cronograma.png)
 
+## Ferramentas utilizadas
+| Ferramentas| Nome| Descrição |
+| :------------- :|:--------------:| :-----------:|
+| ![alt text](images/github.png)| Github|O Github será utilizado para versionamento e armazenamento de todos os documentos|
+| ![alt text](images/zenhub.jpeg)| ZenHub |O Zenhub será utilizado para a organização e planejamento do grupo|
+| ![alt text](images/telegram.jpeg)| Telegram |O Telegram será utilizado para a comunicação do grupo|
+| ![alt text](images/teams.jpeg)|  Microsoft Teams | O Microsoft Teams será utilizado para gravação das apresentações |
+| ![alt text](images/figma.jpeg)|  [Figma](https://www.figma.com/) | Para elaboração do Protótipo de alta fidelidade em [Planejamento de Avaliação - Protótipo de Alta fidelidade](https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/prototipacao/planejamentoPrototipoAltaFidelidade/) |
+| ![alt text](images/pixton.jpeg)|  [Pixton](https://www.pixton.com/) | Para elaboração do [Storyboard](https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/planejamento/storyboard/) |
+| ![alt text](images/youtube.png)|  Youtube | Para disponibilização dos vídeos gravados na [Apresentações](https://interacao-humano-computador.github.io/2020.1-BRBMobilidade/apresenta%C3%A7%C3%B5es/apresentacoes/) |
+
 ## Versionamento
 | Versão| Data| Alteração | Integrante |
 | :------------- :|:--------------:| :-----------:|:----------:|
 | 1.0| 20/09 |Criação do pages e adição do planejamento e processo de design| [Gabriel Hussein](https://github.com/GabrielHussein)|
 | 1.1| 02/10 |Criação do pages e adição do planejamento e processo de design| [Danilo Domingo](https://github.com/danilow200)|
 | 1.2| 22/11 |Correção do processo de design| [Gabriel Hussein](https://github.com/GabrielHussein)|
+| 1.3| 01/12 |Ferramentas utilizadas|[Iago Theophilo](https://github.com/IagoTheophilo)|
